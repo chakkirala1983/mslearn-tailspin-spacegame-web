@@ -13,7 +13,7 @@ namespace Tailspin.SpaceGame.Web
 
         public Sample(int i)
         {
-
+            Console.WriteLine("In Parameterized Constructir");
         }
     }
 }
